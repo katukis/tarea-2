@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float radio;
     float area, circunferencia;
     const float PI = 3.141592f;

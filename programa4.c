@@ -2,7 +2,7 @@
 
 int main() {
     float capital;
-    float tasa;  // tasa mensual en DECIMAL, por ejemplo 0.02 = 2%
+    float tasa;
     float monto;
 
     printf("Cantidad invertida (capital): ");
